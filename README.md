@@ -2,6 +2,8 @@
 
 Aplicativo web de conversão de moedas de alto desempenho construído com Next.js 14.
 
+Segue o link para uma visualização do site: https://currencyconvertersky.vercel.app/
+
 ## ✨ Funcionalidades
 
 ### 🎯 Principais
